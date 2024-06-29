@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bulbasaurcolor" size="500.000000 415.081512" />
+    <ImageTarget name="mewcolor" size="100.000000 100.000000" />
+    <ImageTarget name="pokemon1bn" size="500.000000 707.563049" />
+    <ImageTarget name="jigglypuffcolor" size="200.000000 200.000000" />
+    <ImageTarget name="imagen_2024-06-29_041257637" size="100.000000 109.367683" />
+  </Tracking>
+</QCARConfig>
