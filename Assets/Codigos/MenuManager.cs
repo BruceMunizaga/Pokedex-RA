@@ -10,11 +10,6 @@ Clase MenuManager orientada al cambio de escenas
 */
 public class MenuManager : MonoBehaviour
 {
-    void Awake(){
-        if(this == null){
-            DontDestroyOnLoad(gameObject);
-        }
-    }
     /*
     Metodo que redireccionara a una escena a eleccion
     */
